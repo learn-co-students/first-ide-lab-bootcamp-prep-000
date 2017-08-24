@@ -142,4 +142,22 @@ If the tests are passing and the lab is submitted, all lights will turn green an
 
 Congratulations, you've passed your first lab!!!
 
+## Summary
+
+For every lab, the workflow you will use to solve it is:
+
+1. Open the lab by clicking the "Open" button.
+
+2. Read the README of the lab and get a sense of what the lab wants you to do.
+
+3. Run the tests with `learn` from your terminal.
+
+4. Open any files you need to edit and write code in with the File Tree.
+
+5. Write code to make the tests pass and solve the lab, running `learn` as many times as you need to get feedback.
+
+6. Once the tests are passing or even if you're just done for the day, submit the lab with `learn submit`.
+
+7. If you ever get stuck, use "Ask a Question" to get help, don't be shy!
+
 ## Hints and Troubleshooting
