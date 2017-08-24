@@ -43,6 +43,8 @@ Once you login to the Learn IDE, the lab should open and should look something l
 
 <img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-ide.png" style="display: block"> <!-- This should be updated to reflect exactly what they'll see once this lab is deployed and should be scaled better to be less than 293kb -->
 
+<!-- Add something about Open and not needing to login and the lights -->
+
 ### 3. Navigate Folders with the File Tree
 
 <img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-file-tree.png" style="display: block">
@@ -100,12 +102,44 @@ As you can see, the terminal is in the `first-ide-lab` directory which is the fo
 
 ### 8. Running Your Tests from Your Terminal
 
+Now that you know how to run commands from your Terminal, the next step is to run the `learn` command. Each lab comes with a challenge or problem you need to solve by writing code, demonstrating that you understand the concepts and can implement them in your programs. Labs are "test driven", which means we include code in the lab that checks to see if the code you write correctly solves the challenge. To check your lab and run the tests, you type in `learn` in your terminal.
 
+The challenge of this lab is to edit the file `edit-me.txt`. When that file is empty, if you run `learn` from your terminal, you would see:
 
-### Part 1: Do Some Stuff
+<img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/failing-test.png" style="display: block">
 
-## Resources
+This is a failing test, which is totally normal, all labs are failing until you make them pass.
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+You can see from the output in your terminal some information about why the lab is currently failing. You don't need to understand all of the test output but there will always be hints as to what you're suppose to do to solve the lab. For example:
 
-<a href='https://learn.co/lessons/first-lab-ruby' data-visibility='hidden'>View this lesson on Learn.co</a>
+```
+First Lab:
+  you made an edit to edit-me.txt (FAILED - 1)
+```
+
+That's a pretty helpful message, the tests are telling you that you should have made an edit to edit-me.txt
+
+Once you edit `edit-me.txt` to contain any text and not be empty, if you re-run `learn` from your terminal, you would see:
+
+<img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/passing-test.png" style="display: block">
+
+Notice that the `edit-me.txt` file has text in it and is saved. The tests now report that everything is passing and there are no failures.
+
+When you run `learn`, you will also see that the Learn website is aware of the status of your lab represented by the "Lights" on the right.
+
+<img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/failing-lights.png" style="display: inline">
+<img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/passing-lights.png" style="display: inline">
+
+**Make sure you've edited `edit-me.txt` and added any text, saved the file, and then run `learn` from your terminal to see if your tests are passing.**
+
+### 9. Submitting a Lab with `learn submit`
+
+The last step to completing a lab with the Learn IDE is to submit it. You can do this at anytime by typing `learn submit` in your terminal.
+
+<img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit.png" style="display: block">
+
+If the tests are passing and the lab is submitted, all lights will turn green and you can move onto the next lesson.
+
+Congratulations, you've passed your first lab!!!
+
+## Hints and Troubleshooting
