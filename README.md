@@ -84,6 +84,22 @@ Notice how after saving the file, the blue dot disappears on the tab.
 
 ### 7. Running a Command with Your Terminal
 
+<img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/ide-terminal.png" style="display: block">
+
+On the bottom of the IDE is a Terminal. This is your access point to your development environment that the Learn IDE provides. As a programmer, we use the terminal for a lot of tasks including actually running our code and programs and executing commands. You're going to learn a lot about how to use a Terminal, but for now, know that you can type certain commands into it. Let's try one, `ls`. Click into the terminal, then type `ls` and press enter to execute the command.
+
+<img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/ls-terminal.png" style="display: block">
+
+`ls` stands for list and it will list all the files in the directory, similar to the file tree. After you press enter you will see output from the terminal responding to the command you typed.
+
+Try another one, from your terminal, type `pwd`, which stands for print working directory, which is the current directory the terminal is in.
+
+<img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/pwd-terminal.png" style="display: block">
+
+As you can see, the terminal is in the `first-ide-lab` directory which is the folder that contains this lab.
+
+### 8. Running Your Tests from Your Terminal
+
 
 
 ### Part 1: Do Some Stuff
