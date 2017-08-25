@@ -2,7 +2,7 @@
 
 Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.
 
-## Objectives
+## What You're Going to Learn
 
 1. Open this Lab in the Learn IDE.
 2. Login to the Learn IDE.
@@ -18,11 +18,15 @@ Now that you've downloaded and installed the Learn IDE, it's time to solve your 
 
 To edit the file `edit-me.txt` in this lab using the Learn IDE, run the tests with `learn` and submit the lab with `learn submit`. If you feel comfortable with that, go ahead and try it now by clicking the "Open" button. Otherwise, you can watch a video walkthrough below and read a more detailed explanation.
 
+** If you are new to programming, please watch the video below and read the entire lab before beginning.** The context of reading everything you're going to do before you start will help. Then you can follow along with the lab and it will be easier.
+
 ### Video
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HFvHQVsVqAU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=HFvHQVsVqAU">First IDE Lab</a></p>
 
 ### 1. Opening a Lab with the Learn IDE
+
+The Learn IDE works best when you open it along with a lab to work on.
 
 Whenever you're on a lab in Learn that requires the Learn IDE, you'll see an "Open Button" on the Lab's header.
 
@@ -36,14 +40,14 @@ If clicking on the Open Button did not do anything or gave you an error message,
 
 After clicking the "Open Button", the Learn IDE should open and prompt you to login.
 
+Once you login to the IDE, come back to your web browser and continue reading this guide.
+
 <img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-login.png" style="display: block; border: 1px solid #000">
 You can login via the Email and Password you used to create your Learn Account or you can use your new GitHub account to Sign In.
 
 Once you login to the Learn IDE, the lab should open and should look something like:
 
-<img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-ide.png" style="display: block"> <!-- This should be updated to reflect exactly what they'll see once this lab is deployed and should be scaled better to be less than 293kb -->
-
-<!-- Add something about Open and not needing to login and the lights -->
+<img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-ide.png" style="display: block">
 
 ### 3. Navigate Folders with the File Tree
 
@@ -88,7 +92,7 @@ Notice how after saving the file, the blue dot disappears on the tab.
 
 <img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/ide-terminal.png" style="display: block">
 
-On the bottom of the IDE is a Terminal. This is your access point to your development environment that the Learn IDE provides. As a programmer, we use the terminal for a lot of tasks including actually running our code and programs and executing commands. You're going to learn a lot about how to use a Terminal, but for now, know that you can type certain commands into it. Let's try one, `ls`. Click into the terminal, then type `ls` and press enter to execute the command.
+On the bottom of the IDE is a Terminal. This is your access point to your development environment that the Learn IDE provides. As a programmer, we use the terminal for a lot of tasks including actually running our code and programs and executing commands. You're going to learn a lot about how to use a Terminal, but for now, know that you can type certain commands into it. Let's try one, `ls` (the letter `L`, but lowercase, and the letter `S`, but lowercase). Click into the terminal, then type `ls` and press enter to execute the command.
 
 <img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/ls-terminal.png" style="display: block">
 
