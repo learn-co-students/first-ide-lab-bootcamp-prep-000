@@ -1,5 +1,9 @@
 # Your First IDE Lab
 
+<a href="https://learn.co/ide-3/download">
+  <img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" />
+</a>
+
 Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.
 
 ## What You're Going to Learn
