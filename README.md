@@ -4,25 +4,11 @@
   <img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" />
 </a>
 
-Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.
-
-## What You're Going to Learn
-
-1. Open this Lab in the Learn IDE.
-2. Login to the Learn IDE.
-3. Navigate Folders with the File Tree.
-4. Open a File from the File Tree.
-5. Edit a File with the Text Editor.
-6. Save a File.
-7. Run a Command with the Terminal.
-8. Run Your Tests with `learn` from Terminal.
-9. Submit this Lab with `learn submit` from Terminal.
+Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab. If you haven't yet downloaded the IDE, do so using the button above.
 
 ## Goal
 
-To edit the file `edit-me.txt` in this lab using the Learn IDE, run the tests with `learn` and submit the lab with `learn submit`. If you feel comfortable with that, go ahead and try it now by clicking the "Open" button. Otherwise, you can watch a video walkthrough below and read a more detailed explanation.
-
-** If you are new to programming, please watch the video below and read the entire lab before beginning.** The context of reading everything you're going to do before you start will help. Then you can follow along with the lab and it will be easier.
+The goal of this lab is to edit the file `edit-me.txt` using the Learn IDE, run the tests with `learn` and submit the lab with `learn submit`. If you already know how to do that, go ahead and try it now by clicking the "Open" button at the top right of the page. If you don't know how to do this, you've come to the right place! ** If you are new to programming, please watch the video below and read the steps of the lab (below the video) before beginning.** The context of reading everything you're going to do before you start will help. Then you can follow along with the lab and it will be easier.
 
 ### Video
 
