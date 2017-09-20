@@ -1,32 +1,25 @@
 # Your First IDE Lab
 
-<a href="https://learn.co/ide-3/download">
-  <img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" />
-</a>
-
 Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.
 
-## What You're Going to Learn
+Watch the video below to see how to solve this lab.
 
-1. Open this Lab in the Learn IDE.
-2. Login to the Learn IDE.
-3. Navigate Folders with the File Tree.
-4. Open a File from the File Tree.
-5. Edit a File with the Text Editor.
-6. Save a File.
-7. Run a Command with the Terminal.
-8. Run Your Tests with `learn` from Terminal.
-9. Submit this Lab with `learn submit` from Terminal.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UuObhDt9ZV0?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=UuObhDt9ZV0">First IDE Lab</a></p>
 
-## Goal
+## Instructions
 
-To edit the file `edit-me.txt` in this lab using the Learn IDE, run the tests with `learn` and submit the lab with `learn submit`. If you feel comfortable with that, go ahead and try it now by clicking the "Open" button. Otherwise, you can watch a video walkthrough below and read a more detailed explanation.
+Open this lab in the Learn IDE, edit the file `edit-me.txt` in this lab using the Learn IDE, run the tests with `learn` and submit the lab with `learn submit`.
 
-** If you are new to programming, please watch the video below and read the entire lab before beginning.** The context of reading everything you're going to do before you start will help. Then you can follow along with the lab and it will be easier.
+If you feel comfortable with that, go ahead and try it now by clicking the "Open" button. Otherwise continue reading for a more detailed explanation.
 
-### Video
+** If you are new to programming, please watch the video below and read the entire lab before beginning.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HFvHQVsVqAU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=HFvHQVsVqAU">First IDE Lab</a></p>
+The context of reading everything you're going to do before you start will help. Then you can follow along with the lab and it will be easier.
+
+If you haven't already <a href="https://learn.co/ide-3/download">
+  <img height="56px" width="auto" style="display: inline;" src="//s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" />
+</a>
+
 
 ### 1. Opening a Lab with the Learn IDE
 
