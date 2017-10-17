@@ -1,0 +1,7 @@
+This is the edit file we need to alter. Thus,
+ALTER EDIT-ME innerhtml = psuedosql WHILE LearnOpen() == True
+...loading...
+error.
+Save(edit-me.txt);
+If (Learn()=true) {
+Submit edit-me.txt };      
