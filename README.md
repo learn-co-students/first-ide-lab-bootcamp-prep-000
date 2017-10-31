@@ -12,7 +12,7 @@ Open this lab in the Learn IDE, edit the file `edit-me.txt` in this lab using th
 
 If you feel comfortable with that, go ahead and try it now by clicking the "Open" button. Otherwise continue reading for a more detailed explanation.
 
-**If you are new to programming, please watch the video below and read the entire lab before beginning.**
+**If you are new to programming, please watch the video above and read the entire lab before beginning.**
 
 The context of reading everything you're going to do before you start will help. Then you can follow along with the lab and it will be easier.
 
