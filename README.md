@@ -1,5 +1,5 @@
 # Your First IDE Lab
-
+Hello, World!
 Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.
 
 Watch the video above to see how to solve this lab.
