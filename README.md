@@ -389,13 +389,13 @@
   <br>
   <br>
   
-  At the bottom right of the IDE you will see a timestamp of when your work was last saved.
+  At the bottom right of the IDE you will see a timestamp of when your work was last saved. Your work is being saved to the GitHub account that you connected to Learn. If at any point you want to access your work outside of Learn, go to your GitHub account. 
   
   <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/lastsaved.png" style="display: block;" height="auto" width="auto"/>
 
   <br>
   
-  If you save the file yourself, this will update to reflect the time at which you saved. The IDE is also auto saving in the background. When the auto save occurs, the yellow dot on the text editor tab will disappear (even if you didn't manually save), and the timestamp at the bottom right will update. You should stay in the habit of manually saving your work, as having this habit will prepare you for working on a local environment, which will not auto save like the IDE does.
+  If you save the file yourself, this will update to reflect the time at which you saved. The IDE is also auto saving (to your GitHub account) in the background. When the auto save occurs, the yellow dot on the text editor tab will disappear (even if you didn't manually save), and the timestamp at the bottom right will update. You should stay in the habit of manually saving your work, as having this habit will prepare you for working on a local environment, which will not auto save like the IDE does.
 
   <h1>6. Running a Command with Your Terminal</h1>
   
