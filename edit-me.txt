@@ -1,0 +1,3 @@
+var annual = 75000
+var monthly = annual/12
+var paystub = annual/24
