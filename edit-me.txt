@@ -1,0 +1,17 @@
+////I might as well jot down a few notes of what I've learned so far...
+
+////In that first lab a few lessons ago I learned about document.querySelectors but I was having a hard time figuring out how to select an element that wasn't the first one in line. For example:
+
+//// document.querySelector('#firstheader').innerHTML which obviously told me the text inside the id known as "first header", but later on I wanted to grab the Charles Babbage link, but since it was the second link that showed up I didn't know how to grab it. //// document.querySelector('a').innerHTML only gave me the first link. **turns out I didn't need to know how to do this because the simplified Wiki page for the lab only had one link**
+
+////I still reached out to the community to figure out how to grab a non-first element, it should be super simple. So far everyone has mentioned variations of using querySelectorAll() which seems overly complicated to me but I'm sure it's pretty efficient once I come to understand it. 
+
+////The final code looked like this: var linkText = document.querySelector('p').querySelector('a').text **This calls the paragraph (just happened to be the first) then the link (just happened to be the first) then the text of the link. Next was this: var linkHref = document.querySelector('p').querySelector('a').href **This calls all the same stuff, except grabs the link address (href) at the end instead of the text of the link. 
+
+////What a good feeling it was to accomplish this without giving up. 
+
+////The next lab had me create some stuff on my own, for the most part, rather than just mimicking code. I played around in the console quite a bit, that always helps me answer questions I don't even know I have. I improved my understanding of what it means to work with the DOM without changing the HTML, also what it means to create variables, and I think I understand the difference between strings and numbers pretty well. 
+
+////Eventually I had to create Javascript code that took whatever the HTML was and edited it by +1. This meant I needed to grab the id, then grab the innerHTML, then turn it into an integer, then add 1 to it. It looked something like this: var friendsSelector = document.querySelector('#friend').innerHTML ////then friendsSelector.innerHTML = parseInt(friendsSelector.innerHTML) + 1 ////basically after I created the variable in the first code, the second code says "the innerHTML of the friendsSelector (what the var grabs from the new DOM) should be what the DOM grabs from the original HTML then plus 1 after it's been integer-ized." 
+
+////For whatever reason, accomplishing these "simple" labs has been very satisfying. 
