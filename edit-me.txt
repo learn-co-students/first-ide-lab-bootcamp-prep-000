@@ -1,0 +1,3 @@
+"Hello, World!"
+"What day is it?"
+"How are you?"
