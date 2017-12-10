@@ -1,0 +1,3 @@
+let helloInSwift: String = "Hello World"
+String helloInJava = "Hello World"
+char* helloInC = "Hello World\n"
