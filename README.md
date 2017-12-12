@@ -478,12 +478,6 @@
 
   Congratulations, you've passed your first lab!!!
 
-  <h2>Summary</h2>
-  
-  <br>
-
-  For every lab, the workflow you will use to solve it is:
-  
   <br>
 
   <h2>Summary</h2>
