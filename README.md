@@ -2,7 +2,7 @@
 
 <div class="readme-content-test--hide-when-active">
 
-  <br>
+https://curriculum-content.s3.amazonaws.com/web-development/circle_logo.jpg  <br>
 
   Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.
 
