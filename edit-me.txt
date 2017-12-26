@@ -1,0 +1,3 @@
+"Hello, World!"
+"I am new to coding"
+"Coding has been fun so far!"
