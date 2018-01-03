@@ -1,0 +1,2 @@
+"This is text!"
+"Now I can begin to program for reals!"
