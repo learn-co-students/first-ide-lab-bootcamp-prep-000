@@ -1,0 +1,1 @@
+var friendsSelector = document.querySelector("#friends")
