@@ -1,0 +1,2 @@
+"Bonjour, Monde!"
+"It's me, Lise."
