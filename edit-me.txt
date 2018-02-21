@@ -1,0 +1,2 @@
+"Hello to you world!"
+"I am getting ready to use Github"
