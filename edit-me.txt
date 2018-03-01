@@ -1,0 +1,8 @@
+Hello World!
+<code>My name is Austin Curry</code>
+
+'I grew up in Colorado'
+'My Height is 6'5'
+'I was Born in Boulder Colorado'
+'I enjoy reading and skateboarding'
+'One of my favorite places to eat is 'Noodles & Company''
