@@ -4,7 +4,7 @@
 
   <br>
 
-  Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.
+  Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.test
 
   Watch the video below to see how to solve this lab.
 
