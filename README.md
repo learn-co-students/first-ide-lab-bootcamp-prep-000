@@ -259,7 +259,7 @@
   
   <h1> Your First IDE Lab</h1>
 
-  Now that you've learned about the Learn IDE, it's time to solve your first lab. Watch the video below to see how to solve this lab.
+  Now that you've learned about the Learn IDE, it's time to solve your first lab. Watch the video below to see how to solve this lab.sacvfd
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/T7PVTSkleAk" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=T7PVTSkleAk&feature=youtu.be">First IDE Lab</a></p>
 
