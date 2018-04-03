@@ -1,0 +1,2 @@
+type "learn" to run the test in the lab
+type "learn submit" to submit after all tests pass
