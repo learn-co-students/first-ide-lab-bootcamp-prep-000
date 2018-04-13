@@ -374,7 +374,7 @@
   <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/helloworld.png" style="display: block;" height="auto" width="auto"/>
   <br>
 
-  <h1>5. Saving a File</h1>
+  <h1>5. Saving a File </h1>
   
   <br>
 

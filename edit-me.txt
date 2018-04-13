@@ -1,0 +1,5 @@
+r = Range.new(1,100)
+r.begin
+r.end
+
+
