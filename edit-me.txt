@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Making a change
+=======
+Making a change
+>>>>>>> 7c38546ed2fea3e6214e9212e5752ea0e27ece4f
