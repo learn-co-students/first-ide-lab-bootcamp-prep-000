@@ -12,7 +12,7 @@
 
   <h1>Instructions</h1>
   
-  <br>
+  <br>height
 
   Open this lab in the Learn IDE, edit the file <code>edit-me.txt</code> in this lab using the Learn IDE, run the tests with <code>learn</code> and submit the lab with <code>learn submit</code>.
 
