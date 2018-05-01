@@ -14,7 +14,7 @@
   
   <br>
 
-  Open this lab in the Learn IDE, edit the file <code>edit-me.txt</code> in this lab using the Learn IDE, run the tests with <code>learn</code> and submit the lab with <code>learn submit</code>.
+  Open.. this lab in the Learn IDE, edit the file <code>edit-me.txt</code> in this lab using the Learn IDE, run the tests with <code>learn</code> and submit the lab with <code>learn submit</code>.
 
   If you feel comfortable with that, go ahead and try it now by clicking the "Open" button. Otherwise continue reading for a more detailed explanation.
 
