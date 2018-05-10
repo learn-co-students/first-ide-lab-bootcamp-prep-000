@@ -1,0 +1,1 @@
+var sentence = "This is just the beginning."
