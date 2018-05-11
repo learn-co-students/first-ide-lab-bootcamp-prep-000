@@ -1,4 +1,4 @@
-# Your First IDE Lab
+ctfirs# Your First IDE Lab
 
 <div class="readme-content-test--hide-when-active">
 
@@ -11,7 +11,7 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UuObhDt9ZV0?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=UuObhDt9ZV0">First IDE Lab</a></p>
 
   <h1>Instructions</h1>
-  
+  dd
   <br>
 
   Open this lab in the Learn IDE, edit the file <code>edit-me.txt</code> in this lab using the Learn IDE, run the tests with <code>learn</code> and submit the lab with <code>learn submit</code>.
@@ -495,6 +495,8 @@
   For every lab, the workflow you will use to solve it is:
   
   <br>
+  
+  'test test test'
 
   1. Open the lab by clicking the "Open" button.
   
