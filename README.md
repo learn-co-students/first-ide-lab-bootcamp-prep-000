@@ -71,7 +71,7 @@
   
   <br>
 
-  The File Tree in the IDE is a way to browse the file and folders in the lab. It works a lot like a file browser on your computer, showing you the top level folder on top, generally the lab name, and then all the files and folders inside the folder.
+  The  Tree in the IDE is a way to browse the file and folders in the lab. It works a lot like a file browser on your computer, showing you the top level folder on top, generally the lab name, and then all the files and folders inside the folder.
 
   <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-expanded-tree.png" style="display: block"/>
   
