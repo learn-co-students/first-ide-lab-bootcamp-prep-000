@@ -1,0 +1,6 @@
+"Hello World!"
+Remember to use the command:
+"git reset --hard HEAD"
+in order to reset the lab if it presents a "bad clone"
+
+Also with errors, pay attention to all the texts
