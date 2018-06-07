@@ -35,7 +35,7 @@
 
   Whenever you're on a lab in Learn that requires the Learn IDE, you'll see an "Open Button" on the Lab's header.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-sample-header.png" style="border: 1px solid #000; display: block" alt="Lab Header">
+  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-sample-header.png"style="border: 1px solid #000; display: block" alt="Lab Header">
   
   <br>
 
