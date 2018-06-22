@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 cd fi# Your First IDE Lab
+=======
+git clon# Your First IDE Lab
+>>>>>>> 375ff6d9277d0bda30fd4e9876fdf109866e977d
 
 <div class="readme-content-test--hide-when-active">
 
