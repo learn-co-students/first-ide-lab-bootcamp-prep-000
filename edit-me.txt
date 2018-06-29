@@ -1,2 +1,2 @@
 "Hello World"
-"This is Shofi'a first IDE for JS!!!"
+"This is Shofi's first IDE for JS!!!"
