@@ -1,0 +1,2 @@
+"Hello World"
+"This is Shofi's first IDE for JS!!!"
