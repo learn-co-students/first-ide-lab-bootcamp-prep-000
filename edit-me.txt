@@ -1,0 +1,3 @@
+"hello world!" 
+"my name is Dina!"https://learn.co/tracks/bootcamp-prep/javascript-fundamentals/programming-js-in-the-ide/first-ide-lab#
+"hi"
