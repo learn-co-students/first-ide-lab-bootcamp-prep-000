@@ -1,6 +1,6 @@
 # Your First IDE Lab
 
-<div class="readme-content-test--hide-when-active">
+<div class="readme-content-test--show-when-active">
 
   <br>
 
