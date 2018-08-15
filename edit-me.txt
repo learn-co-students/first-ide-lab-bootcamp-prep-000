@@ -1,0 +1,4 @@
+'Hello, World! My name is Gavin Moore. I was a bit
+nervous getting started with this bootcamp prep but
+have really enjoyed every bit of it. Plus the Flatiron
+community is super helpful and polite.'
