@@ -1,6 +1,9 @@
 # Your First IDE Lab
 
-<div class="readme-content-test--hide-when-active">
+<div class="readme-content-teClose
+
+
+st--hide-when-active">
 
   <br>
 
