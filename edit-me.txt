@@ -1,0 +1,3 @@
+var theQuestion = 'Who is John Galt?'
+console.log(theQuestion)
+
