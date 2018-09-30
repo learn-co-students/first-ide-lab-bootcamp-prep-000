@@ -24,7 +24,7 @@
 
   If you haven't already: 
   <br>
-  <a href="https://learn.co/ide-3/download"><img height="56px" width="auto" style="display: inline;" src="//s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" /></a>
+
 
 
   <h1>1. Opening a Lab with the Learn IDE</h1>
