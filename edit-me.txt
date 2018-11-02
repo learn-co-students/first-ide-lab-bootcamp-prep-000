@@ -1,0 +1,2 @@
+var str = "I love coding";
+console.log(str);
