@@ -20,9 +20,7 @@
 
   <strong>If you are new to programming, please watch the video below and read the entire lab before beginning.</strong>
 
-  The context of reading everything you're going to do before you start will help. Then you can follow along with the lab and it will be easier.
-
-  If you haven't already: 
+  The context of reading everything you're going to do before aven't already: 
   <br>
   <a href="https://learn.co/ide-3/download"><img height="56px" width="auto" style="display: inline;" src="//s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" /></a>
 
@@ -36,7 +34,9 @@
   Whenever you're on a lab in Learn that requires the Learn IDE, you'll see an "Open Button" on the Lab's header.
 
   <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-sample-header.png" style="border: 1px solid #000; display: block" alt="Lab Header">
-  
+  you start will help. Then you can follow along with the lab and it will be easier.
+
+  If you h
   <br>
 
   Go ahead and click on the Open Button on the Lab's header (not the image above, that's just a sample). The Learn IDE you downloaded and installed in the previous lesson should open.
