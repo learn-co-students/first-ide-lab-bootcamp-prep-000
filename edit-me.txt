@@ -1,0 +1,1 @@
+"Hello World! This is an exercise on the first lab"
