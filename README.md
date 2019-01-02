@@ -430,7 +430,7 @@
   
   <br>
   <br>
-
+jkh
   The challenge of this lab is to edit the file <code>edit-me.txt</code>. When that file is empty, if you run <code>learn</code> from your terminal, you would see:
 
   <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/learntestfail.png" style="display: block;" height="auto" width="auto"/>
