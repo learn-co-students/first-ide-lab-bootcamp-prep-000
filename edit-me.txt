@@ -1,0 +1,2 @@
+Hello World!
+This is my first lab and I'm going to learn JavaScript.
