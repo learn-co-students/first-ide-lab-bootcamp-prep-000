@@ -1,1 +1,1 @@
-"var fckBuddy = yummyTummyBigBoy"
+"hello buddy!"
