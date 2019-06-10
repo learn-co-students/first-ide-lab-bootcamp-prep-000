@@ -1,0 +1,2 @@
+friends =  document.querySelector('#friends').innerHTML
+friends = parseInt(friends) + 1
