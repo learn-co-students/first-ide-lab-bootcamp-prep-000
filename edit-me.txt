@@ -1,0 +1,6 @@
+"Hello World!"
+learn
+ls
+pwd
+
+pwd
