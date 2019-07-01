@@ -1,0 +1,1 @@
+To pass this lab all you need to do is not have a blank edit-me.txt file.
