@@ -1,0 +1,5 @@
+function greeting(username) {
+  console.log(`Hello, my name is ${username}!`);
+}
+
+greeting('Jonathan');
