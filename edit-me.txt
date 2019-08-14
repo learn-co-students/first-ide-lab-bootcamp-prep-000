@@ -1,0 +1,11 @@
+<h1>Having A Great Day Today<h1>
+<br>
+
+Today this is a Learn.co IDE website created in a IDE Lab and hopefully it's secure and sufficiently made and you're impressed
+<br>
+
+This is a example of a cool picture I hope to find more better picture sources or even some of my own streaming and from sources over the net ok.
+<br>
+
+<img src = "C:\Users\RAIDA\Downloads\20170421_142345.jpg">
+
