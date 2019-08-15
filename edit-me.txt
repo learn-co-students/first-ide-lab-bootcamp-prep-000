@@ -1,0 +1,2 @@
+var hello = alert("Hello World!"); 
+alert(hello); 
