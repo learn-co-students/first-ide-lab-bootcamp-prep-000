@@ -1,4 +1,4 @@
-# Your First IDE Lab
+ Your First IDE Lab
 
 <div class="readme-content-test--hide-when-active">
 
@@ -118,8 +118,7 @@
 
   <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/saving-a-file.png" style="display: inline"/>
   <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/saved-edited-file.png" style="display: inline"/>
-  
-  
+
   <br>
   <br>
   Notice how after saving the file, the blue dot disappears on the tab.
