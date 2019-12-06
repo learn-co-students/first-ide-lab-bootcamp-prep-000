@@ -1,0 +1,5 @@
+var me = {
+"name":"Peter",
+id:1,
+"age":25
+};
