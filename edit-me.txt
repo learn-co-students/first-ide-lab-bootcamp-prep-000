@@ -1,1 +1,10 @@
-learn submit
+"Hello World"
+
+x = 10
+y = 11
+z = x + y
+
+if x = y == 0
+  print("true")
+else
+  print("false")
