@@ -1,0 +1,3 @@
+Hello, world!
+My name is Raymond
+This is my text edit.
