@@ -1,1 +1,1 @@
-Hello! My name is Stephanie.
+Hello world! I'm Stephanie, and I would love to become a Flatiron School student.
