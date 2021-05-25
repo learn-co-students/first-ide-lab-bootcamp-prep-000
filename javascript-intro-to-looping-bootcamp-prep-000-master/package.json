@@ -1,0 +1,38 @@
+{
+  "name": "javascript-intro-to-looping",
+  "version": "0.1.0",
+  "description": "Introduction to loops in JavaScript on Learn",
+  "main": "loops.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R mocha-multi --reporter-options nyan=-,json=.results.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-curriculum/javascript-intro-to-looping.git"
+  },
+  "keywords": [
+    "javascript",
+    "for",
+    "while",
+    "loop",
+    "learn",
+    "flatiron"
+  ],
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/learn-co-curriculum/javascript-intro-to-looping/issues"
+  },
+  "homepage": "https://github.com/learn-co-curriculum/javascript-intro-to-looping#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-spies": "^0.7.1",
+    "jsdom": "^9.0.0",
+    "mocha": "^5.2.0",
+    "mocha-jsdom": "~1.1.0",
+    "mocha-multi": "^1.0.0"
+  }
+}
