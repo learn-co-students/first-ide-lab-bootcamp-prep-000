@@ -1,3 +1,4 @@
-RSpec.configure do |config|
+Hello World !
+
   config.order = :default
 end
